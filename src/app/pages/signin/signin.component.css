@@ -1,0 +1,14 @@
+section {
+  height: 100%;
+}
+
+.card {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  width: 30rem;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+}

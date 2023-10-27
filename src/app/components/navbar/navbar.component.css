@@ -1,0 +1,9 @@
+.whats-btn {
+  background-color: #25d366;
+  border: solid 2px #0f4d26;
+}
+
+.whats-btn:hover {
+  filter: brightness();
+  border: solid 2px white;
+}
